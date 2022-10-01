@@ -1,6 +1,9 @@
 # Quiz
 Quiz desenvolvido em ReactJs
 
+## instalação
+npm install && npm run dev
+
 ## About
 Uma aplicação SPA que faz perguntas e da algumas opções para respostas.
 ### Recursos
